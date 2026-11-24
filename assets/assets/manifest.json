@@ -1,0 +1,87 @@
+{
+ "heroes": {
+  "Kael": "assets/heroes/Kael.webp",
+  "Brom": "assets/heroes/Brom.webp",
+  "Nova": "assets/heroes/Nova.webp",
+  "Root": "assets/heroes/Root.webp",
+  "Nyx": "assets/heroes/Nyx.webp",
+  "Mael": "assets/heroes/Mael.webp",
+  "Nero": "assets/heroes/Nero.webp",
+  "Jelly": "assets/heroes/Jelly.webp",
+  "Sylra": "assets/heroes/Sylra.webp",
+  "Merana": "assets/heroes/Merana.webp",
+  "Varo": "assets/heroes/Varo.webp",
+  "Hedi": "assets/heroes/Hedi.webp"
+ },
+ "sel": {
+  "Sylra": "assets/sel/Sylra.jpg",
+  "Kael": "assets/sel/Kael.jpg",
+  "Brom": "assets/sel/Brom.jpg",
+  "Nyx": "assets/sel/Nyx.jpg",
+  "Nova": "assets/sel/Nova.jpg",
+  "Root": "assets/sel/Root.jpg",
+  "Nero": "assets/sel/Nero.jpg",
+  "Jelly": "assets/sel/Jelly.jpg",
+  "Mael": "assets/sel/Mael.jpg",
+  "Merana": "assets/sel/Merana.jpg",
+  "Varo": "assets/sel/Varo.jpg",
+  "Hedi": "assets/sel/Hedi.jpg"
+ },
+ "map": {
+  "arena": "assets/map/arena.webp",
+  "pillarL": "assets/map/pillarL.webp",
+  "pillarS": "assets/map/pillarS.webp",
+  "wallA": "assets/map/wallA.webp",
+  "wallB": "assets/map/wallB.webp",
+  "torchL": "assets/map/torchL.webp",
+  "torchS": "assets/map/torchS.webp",
+  "tree": "assets/map/tree.webp",
+  "treeS": "assets/map/treeS.webp",
+  "stump": "assets/map/stump.webp",
+  "fern": "assets/map/fern.webp",
+  "volc": "assets/map/volc.webp",
+  "lrock": "assets/map/lrock.webp",
+  "obs": "assets/map/obs.webp",
+  "mrock": "assets/map/mrock.webp",
+  "reed": "assets/map/reed.webp",
+  "wallH": "assets/map/wallH.webp",
+  "pilV": "assets/map/pilV.webp",
+  "mhill": "assets/map/mhill.webp",
+  "mwall": "assets/map/mwall.webp",
+  "bush": "assets/map/bush.webp",
+  "fl_regen": "assets/map/fl_regen.webp",
+  "fl_mud": "assets/map/fl_mud.webp",
+  "fl_lava": "assets/map/fl_lava.webp"
+ },
+ "icons": {
+  "t": {
+   "b": "assets/icons_t/b.webp",
+   "i": "assets/icons_t/i.webp",
+   "s": "assets/icons_t/s.webp",
+   "f": "assets/icons_t/f.webp",
+   "h": "assets/icons_t/h.webp",
+   "n": "assets/icons_t/n.webp"
+  },
+  "e": {
+   "Feuer": "assets/icons_e/Feuer.webp",
+   "Wasser": "assets/icons_e/Wasser.webp",
+   "Eis": "assets/icons_e/Eis.webp",
+   "Blitz": "assets/icons_e/Blitz.webp",
+   "Erde": "assets/icons_e/Erde.webp",
+   "Luft": "assets/icons_e/Luft.webp",
+   "Neutral": "assets/icons_e/Neutral.webp"
+  }
+ },
+ "meta": {
+  "rimL": 1,
+  "rimR": 760,
+  "rimT": 1,
+  "rimMid": 265.75,
+  "w": 762,
+  "h": 577
+ },
+ "plates": [
+  "Varo",
+  "Hedi"
+ ]
+}
